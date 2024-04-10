@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukandogann&show_icons=true&locale=en&layout=compact" alt="dogukandogann" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukandogann&show_icons=true&locale=en" alt="dogukandogann" /></p> 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandogann&" alt="dogukandogann" /></p>
