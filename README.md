@@ -17,4 +17,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandogann&" alt="dogukandogann" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukandogann&" alt="dogukandogann" width="800" /></p>
+
