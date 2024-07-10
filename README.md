@@ -1,7 +1,7 @@
 ![MasterHead](https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1025411417W8333H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/eat-sleep-code-repeat-sticker.jpg)
 
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
-<h3 align="center">A passionate Full-Stack developer from Türkiye</h3>
+<h3 align="center">A passionate Backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on [MultiShop_MicroService](https://github.com/Dogukandogann/MultiShop_MicroService)
 
